@@ -36,6 +36,7 @@ class BuildLogPlugin {
       callback()
     })
   }
+
 }
 
 module.exports = BuildLogPlugin;
